@@ -2,7 +2,7 @@
 templateKey: site-data
 published: true
 name: Norbert Vergez
-jobTitle: Norbert Vergez - Director of Capital Projects with P3 Builds in Texas
+jobTitle: Director of Capital Projects with P3 Builds in Texas
 location: Plano, Texas
 profileImage:
   src: /img/col-bert-vergez_command-photo_2009.jpeg
