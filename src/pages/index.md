@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Norbert Vergez
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,18 +12,21 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
+  src: /img/norbertheroimage.png
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio
+metaDescription: "Norbert Vergez is a Plano, Texas, executive who delivers
+  technical operations and project management solutions with P3 Builds. As
+  director of capital projects, he oversees the Commercial Construction Division
+  and manages a full breadth of remodeling and new construction undertakings. "
 published: true
 profileButton:
   link: /profile
-  label: View Profile
+  label: About
 blogButton:
   link: /blog
-  label: Visit My Blog
+  label: "Latest Blog "
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
@@ -31,4 +34,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](<>)**.
+Norbert Vergez is a Plano, Texas, executive who delivers technical operations and project management solutions with P3 Builds. As director of capital projects, he oversees the Commercial Construction Division and manages a full breadth of remodeling and new construction undertakings. [Norbert Vergez](https://chucksplaceonb.com/project-management-methodologies/) excels in identifying business opportunities and engages with architects, engineers, and designers within the design-to-permit process. He oversees around $10 million in projects annually and works closely with local and state entities.
