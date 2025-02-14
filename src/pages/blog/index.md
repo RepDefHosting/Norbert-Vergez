@@ -1,9 +1,13 @@
 ---
 templateKey: blog-archive
 pageSlug: /blog
-pageTitle: Blog
+pageTitle: Norbert Vergez Blog
 subheader: null
-metaDescription: Blog Listing Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: Mr. Vergez previously held senior sales executive
+  responsibilities with InterConnect Wiring in Fort Worth and oversaw sales to
+  aerospace clients nationwide. As with his present company, he leveraged
+  leadership experience in the Armed Forces in a role as a US government
+  contracting and defense opportunity subject matter expert.
 published: true
 schemaType: WebPage
 header: Blog
@@ -12,6 +16,6 @@ featuredImage:
   alt: Blog
   caption: null
 profileButton:
-  link: /profile
-  label: View Profile
+  link: /
+  label: Home
 ---
